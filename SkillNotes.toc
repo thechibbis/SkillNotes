@@ -1,0 +1,17 @@
+## Interface: 120007
+## Title: SkillNotes
+## Notes: Annotate spell/buff/item rotations as on-screen icon overlays
+## Author: You
+## Version: 1.0.0
+## SavedVariables: SkillNotesDB
+## SavedVariablesPerCharacter: SkillNotesCharDB
+
+Core.lua
+Data.lua
+Resolve.lua
+Ui/Overlay.lua
+Ui/Config.lua
+Ui/ConfigPanel.lua
+Ui/ConfigPrompts.lua
+Ui/OverlayMenu.lua
+SkillNotes.lua
